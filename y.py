@@ -8,3 +8,4 @@ for i in range(1,10):
         s+=2
     s+=1
 print(s)
+print("hello world")
